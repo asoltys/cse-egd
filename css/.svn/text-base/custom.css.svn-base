@@ -1,0 +1,60 @@
+/*
+   Site-specific Style-sheet for Esquimalt Graving 
+   Dock Booking 
+   
+   Date Created: 2008-06-27
+   Creator: lois.chan@pwgsc.gc.ca
+   
+   This style-sheet is maintained by AMI&TOS Pacific for 
+   EGD Booking. Updates to this style sheet will be at
+   the discretion of AMI&TOS Pacific.
+
+   --------------------------------------------------------
+   
+   These custom classes are used in all of the EGDBk site.
+   
+*/
+
+/* GENERAL CONTROL DEFINITIONS ------------------------- */
+
+img {
+	border: none;
+}
+
+/* Overrides the institution definition of colLayout
+   having 100% height, which is buggy on our test 
+   server. */
+div.core div.colLayout {
+	height: auto;
+}
+
+/* Adds a margin to the top that is the same size as the
+   bottom margin. */
+table.basic {
+	margin-top: 1em;
+	font-weight: normal;
+	text-align: left;
+}
+
+/* Overrides the padding to be a little bit smaller and
+   thus less intrusive. */
+table.basic td, table.basic th {
+	padding: 1px 3px 1px 3px;
+}
+
+/* This is necessary because some tables are found inside
+   coloured containers. */
+table tr {
+	background-color: #fff;
+}
+
+dt {
+	width: 15em;
+	float: left;
+	font-weight: bold;
+}
+
+dd {
+	margin-left: 16em;
+}
+

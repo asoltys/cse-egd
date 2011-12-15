@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+<!-- VERSION 1.04 DU GABARIT NSI 2.0 | CLF 2.0 TEMPLATE VERSION 1.04 -->
+<!-- VERSION 1.0 DU GABARIT TPSGC | PWGSC TEMPLATE VERSION 1.0 -->
+<!-- DEBUT DE L'EN-TETE | HEADER BEGINS -->
+<!-- DEBUT DU TITRE | TITLE BEGINS -->
+
+<title>Meilleures pratiques de gestion de l'environnement - CSE - TPSGC</title>
+
+<!-- FIN DU TITRE | TITLE ENDS -->
+<!-- DEBUT DES METADONNEES | METADATA BEGINS -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/" />
+<link rel="schema.dc" href="http://purl.org/dc/terms/" />
+
+<meta name="dc.title" content="Meilleures pratiques de gestion de l'environnement - CSE - TPSGC" />
+<meta name="dc.subject" scheme="gccore" content="Navire; Quai; Environnement; Meilleures pratiques; Norme relative à l'environnement; Gestion de l'environnement" />
+
+<meta name="dc.language" scheme="ISO639-2/T" content="fra" />
+<meta name="dc.creator" content="Gouvernement du Canada, Travaux publics et Services gouvernementaux Canada" />
+<meta name="dc.publisher" content="Gouvernement du Canada, Travaux publics et Services gouvernementaux Canada" />
+<meta name="dc.audience" content=" " />
+<meta name="dc.contributor" content=" " />
+<meta name="dc.coverage" content=" " />
+<meta name="dc.date.created" content="2008-06-13" />
+<meta name="dc.date.modified" content="2008-11-12" />
+<meta name="dc.format" content=" " />
+<meta name="dc.identifier" content=" " />
+<meta name="dc.rights" content="http://www.tpsgc-pwgsc.gc.ca/comm/ai-in-fra.html" />
+<meta name="dcterms.issued" scheme="W3CDTF" content="2007-09-20" />
+<meta name="dcterms.modified" scheme="W3CDTF" content="2008-11-12" />
+
+<meta name="description" content="Meilleures pratiques de gestion de l'environnement" />
+<meta name="keywords" content="cale seche d'Esquimalt, ISO 14001, environnement, gestion, programmes, sant&eacute;, s&eacute;curit&eacute;" />
+
+<meta name="pwgsc.contact.email" content="questions@tpsgc.gc.ca" />
+<!-- FIN DES METADONNEES | METADATA ENDS -->
+<!-- DEBUT DES CSS DU GABARIT TPSGC | PWGSC TEMPLATE CSS BEGIN -->
+<link href="/clf20/css/base.css" media="screen, print" rel="stylesheet" type="text/css" />
+<link href="/clf20/css/2col.css" media="screen, print" rel="stylesheet" type="text/css" />
+<style type="text/css" media="all">
+@import url(/clf20/css/base2.css);
+</style>
+<!-- PROGRESSIVE ENHANCEMENT BEGINS | DEBUT DE L'AMELIORATION PROGRESSIVE -->
+<script src="/clf20/scripts/pe-ap.js" type="text/javascript"></script>
+<script type="text/javascript">
+	/* <![CDATA[ */
+		var params = {
+			lng:"fra",
+			pngfix:"/clf20/images/inv.gif"
+		};
+		PE.progress(params);
+	/* ]]> */
+	</script>
+<!-- PROGRESSIVE ENHANCEMENT ENDS | FIN DE L'AMELIORATION PROGRESSIVE -->
+<link href="/clf20/css/base-institution.css" media="screen, print" rel="stylesheet" type="text/css" />
+<link href="/clf20/css/institution.css" media="screen, print" rel="stylesheet" type="text/css" />
+<link href="/pac/cse-egd/css/custom.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/clf20/css/pf-if.css" rel="stylesheet" type="text/css" />
+<!-- FIN DES CSS DU GABARIT TPSGC | PWGSC TEMPLATE CSS END -->
+</head>
+<body>
+<div class="page">
+	<div class="core">
+		<!-- HEADER BEGINS | DEBUT DE L'EN-TETE -->
+		<!--#include virtual="/clf20/ssi/tete-header-fra.html"-->
+		<!-- HEADER ENDS | FIN DE L'EN-TETE -->
+		<!-- DEBUT DE LA PISTE DE NAVIGATION | BREAD CRUMB BEGINS -->
+		<p class="breadcrumb">
+			<!--#include virtual="/clf20/ssi/bread-pain-fra.html"--><!--#include virtual="/pac/cse-egd/ssi/bread-pain-fra.html"-->
+			&gt;&nbsp;<a href="programme-program-fra.html">Programme
+			environnemental</a> &gt; <a href="gestion-management-fra.html">Gestion de
+			l'environnement</a> &gt; Meilleures pratiques</p>
+		<!-- BREAD CRUMBS END | FIN DE LA PISTE DE NAVIGATION -->
+		<div class="colLayout">
+			<!-- DEBUT DE LA MISE EN PAGE DE DEUX COLONNES | TWO COLUMN LAYOUT BEGINS -->
+			<!-- DEBUT DU MENU LATERAL GAUCHE | LEFT SIDE MENU BEGINS -->
+			<div class="left">
+				<!--#include virtual="/clf20/ssi/left-menu-gauche1-fra.html"-->
+				<!--#include virtual="/pac/cse-egd/ssi/menu-mi-fra.html"-->
+				<!--#include virtual="/clf20/ssi/left-menu-gauche-proactive-fra.html"-->
+			</div>
+			<!-- FIN DU MENU LATERAL GAUCHE | LEFT SIDE MENU ENDS -->
+			<!-- DEBUT DU CONTENU | CONTENT BEGINS -->
+
+			<div class="center">
+
+				<h1 id="cont">
+					<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+					Meilleures pratiques de gestion de l'environnement
+					<!-- CONTENT TITLE ENDS | FIN DU TITRE DU CONTENU -->
+					</h1>
+				<h2>12 R&egrave;gles environnementales &agrave; respecter &agrave; la Cale
+					s&egrave;che d&rsquo;Esquimalt</h2>
+					<div class="smallFont">
+				<p> Veuillez consulter le Manuel des meilleures pratiques de
+					gestion de l&rsquo;environnement de la cale s&egrave;che d&rsquo;Esquimalt
+					pour des renseignements plus d&eacute;taill&eacute;s sur les meilleures
+					pratiques de gestion et la r&eacute;glementation applicable sur l&rsquo;environnement.</p>
+					</div>
+				<h3>Travaux
+					d&rsquo;entretien d&rsquo;un navire en cale s&egrave;che</h3>
+				<ol>
+					<li>Les travaux de
+						d&eacute;capage au jet de sable doivent &ecirc;tre effectu&eacute;s
+						dans un lieu ferm&eacute; afin que les &eacute;missions fugitives n&rsquo;atteignent
+						les travailleurs, le voisinage et l&rsquo;environnement.</li>
+					<li>Il faut emp&ecirc;cher
+						le rejet dans le port de l&rsquo;eau de lavage
+					sous pression contenant des contaminants de peinture.</li>
+					<li>Il
+						faut nettoyer et signaler imm&eacute;diatement tout d&eacute;versement.
+						Il faut que le mat&eacute;riel d&rsquo;intervention en cas de d&eacute;versement
+						soit facilement accessible et que le personnel ait re&ccedil;u une formation
+						sur son utilisation.</li>
+					<li>Il faut emp&ecirc;cher que les huiles, les particules
+						abrasives et la peinture qui s&rsquo;accumulent dans la zone de travail
+						ne soient rejet&eacute;es
+						dans les galeries sous la cale s&egrave;che ou dans les collecteurs d&rsquo;eaux
+						pluviales s&rsquo;&eacute;vacuant dans le port.</li>
+					<li>Il faut faire en sorte
+						que l&rsquo;eau non contamin&eacute;e (c.-&agrave;-d.,
+						eau de ballast, de refroidissement) n&rsquo;entre pas en contact avec les
+						contaminants pr&eacute;sents sur le fond du bassin ou dans les zones de
+						travail. Il faut &eacute;liminer les d&eacute;bris, y compris les restes
+						de particules abrasives et de peinture, afin d&rsquo;&eacute;viter que
+						l&rsquo;eau
+						de pluie entra&icirc;ne les contaminants dans les galeries et les conduites
+						d&rsquo;&eacute;vacuation.</li>
+					<li>Il faut d&eacute;barrasser le fond du bassin,
+						les seuils et les foss&eacute;s
+						de tous les d&eacute;bris pr&eacute;sents avant d&rsquo;inonder le bassin.</li>
+				</ol>
+				<h3>Navires
+						accost&eacute;s &agrave; des quais ou des jet&eacute;es</h3>
+				<ol>
+					<li>La projection
+						d&rsquo;abrasifs, l&rsquo;&eacute;caillage, le soudage,
+						le polissage ou le peinturage seront interdits &agrave; moins qu&rsquo;il
+						ne soit possible de contr&ocirc;ler les d&eacute;bris ou les &eacute;missions
+						et de les emp&ecirc;cher de p&eacute;n&eacute;trer dans le port.</li>
+					<li>Le mazoutage
+						des navires doit s&rsquo;effectuer en conformit&eacute; avec
+						le R&egrave;glement sur la pr&eacute;vention de la pollution par les hydrocarbures
+						de la Loi sur la marine marchande du Canada. Il doit
+						notamment satisfaire aux exigences concernant les tuyaux/raccords
+						ad&eacute;quats,
+						la communication bidirectionnelle et la planification
+						et la capacit&eacute; d&rsquo;intervention
+						en cas de d&eacute;versement.</li>
+					<li>Les eaux noires, les eaux grises et les
+						eaux surchlor&eacute;es qui ont &eacute;t&eacute; neutralis&eacute;es
+						doivent &ecirc;tre &eacute;vacu&eacute;es dans le r&eacute;seau d&rsquo;&eacute;gouts
+						sanitaires aux points de d&eacute;charge d&eacute;sign&eacute;s des installations
+						et doivent satisfaire aux exigences &eacute;nonc&eacute;es dans le Capital
+						Regional District Sanitary Sewer Bylaw et le Ship and
+						Boat Waste Disposal Facility Authorization.</li>
+				</ol>
+				<h3>Exigences
+						g&eacute;n&eacute;rales</h3>
+				<ol>
+					<li>Il faut entreposer les mati&egrave;res
+						dangereuses (y compris les peintures, les huiles, les
+						solvants, les acides, <acronym title="etcetera">etc.</acronym>) dans des r&eacute;cipients appropri&eacute;s
+						dans les zones d&eacute;sign&eacute;es &agrave; cette fin et loin des conduites
+						d&rsquo;&eacute;vacuation vers le port.</li>
+					<li>Il faut veiller &agrave; ce
+						que tous les r&eacute;cipients qui ne sont
+						pas entrepos&eacute;s dans un lieu d&rsquo;entreposage permanent affichent
+						une &eacute;tiquette r&eacute;dig&eacute;e lisiblement en anglais et pr&eacute;cisant
+						le contenu et le nom de l&rsquo;entreprise responsable de la substance
+						lorsqu&rsquo;elle
+						se trouve dans les installations.</li>
+					<li>Il faut veiller &agrave; ce que des
+						conteneurs &agrave; d&eacute;chets
+						et des bacs de recyclage soient plac&eacute;s dans les zones en location,
+						les coins repas et les zones de travail. Il faut informer
+						les employ&eacute;s
+						et les sous-traitants que tous les d&eacute;chets, comme les bouchons d&rsquo;oreille,
+						les
+						masques antipoussi&egrave;res et les gobelets de mousse, doivent &ecirc;tre &eacute;limin&eacute;s
+						dans des conteneurs appropri&eacute;s.</li>
+				</ol>
+				<h3>Contacts en cas d&rsquo;urgence (24
+					heures) :</h3>
+				<table width="100%" border="0" cellspacing="2">
+					<tr>
+						<td>Commissionnaires de la cale s&egrave;che d&rsquo;Esquimalt</td>
+						<td>363-3784</td>
+					</tr>
+					<tr>
+						<td>Op&eacute;rations portuaires et services d&rsquo;urgence (<acronym title="Minist&egrave;re de la d&eacute;fense natinale">MDN</acronym>)</td>
+						<td>363-2160 ou canal VHF 10</td>
+					</tr>
+					<tr>
+						<td>Provincial Emergency Program (PEP)</td>
+						<td>1-800- 663-3456</td>
+					</tr>
+					<tr>
+						<td>Garde c&ocirc;ti&egrave;re canadienne</td>
+						<td>1-800-889-8852 ou canal VFH 12</td>
+					</tr>
+				</table>
+
+				<div class="option2" style="text-align: center;">
+				<p>Pour
+					de plus amples renseignements, communiquez avec le coordonnateur
+				environnemental de la <acronym title="Cale s&egrave;che d'Esquimalt">CSE</acronym> au 250-363-6985</p>
+				</div>
+				<div class="smallFont">
+				<p>Veuillez consulter
+					le Manuel des meilleures pratiques de gestion de l&rsquo;environnement de
+					la cale s&egrave;che d&rsquo;Esquimalt
+					pour des renseignements plus d&eacute;taill&eacute;s sur les meilleures
+				pratiques de gestion et la r&eacute;glementation applicable sur l&rsquo;environnement.</p>
+				</div>
+			</div>
+			<!-- FIN DU CONTENU | CONTENT ENDS -->
+			<!-- FIN DE LA MISE EN PAGE DE DEUX COLONNES | TWO COLUMN LAYOUT ENDS -->
+			<!-- DEBUT DU PIED DE LA PAGE | FOOTER BEGINS -->
+			<div class="footer">
+				<div class="footerline"></div>
+				<div class="foot1">
+					<!-- DEBUT DE LA DATE DE MODIFICATION | DATE MODIFIED BEGINS -->
+					Date de modification&nbsp;: <span class="date">
+					<!--#config timefmt="%Y-%m-%d"-->
+					<!--#echo var="LAST_MODIFIED"-->
+					</span>
+					<!-- FIN DE LA DATE DE MODIFICATION | DATE MODIFIED ENDS -->
+				</div>
+				<!--#include virtual="/clf20/ssi/foot-pied-fra.html"-->
+			</div>
+			<!-- FIN DU PIED DE LA PAGE | FOOTER ENDS -->
+		</div>
+	</div>
+</div>
+</body>
+</html>
