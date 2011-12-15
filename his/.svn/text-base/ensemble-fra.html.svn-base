@@ -1,0 +1,185 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+<!-- VERSION 1.04 DU GABARIT NSI 2.0 | CLF 2.0 TEMPLATE VERSION 1.04 -->
+<!-- VERSION 1.0 DU GABARIT TPSGC | PWGSC TEMPLATE VERSION 1.0 -->
+<!-- DEBUT DE L'EN-TETE | HEADER BEGINS -->
+<!-- DEBUT DU TITRE | TITLE BEGINS -->
+
+<title>Article paru dans Ensemble - CSE - TPSGC</title>
+
+<!-- FIN DU TITRE | TITLE ENDS -->
+<!-- DEBUT DES METADONNEES | METADATA BEGINS -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/" />
+<link rel="schema.dc" href="http://purl.org/dc/terms/" />
+
+<meta name="dc.title" content="Article paru dans Ensemble - CSE - TPSGC" />
+<meta name="dc.subject" scheme="gccore" content="Navire; Quai; Histoire; Commémoration" />
+
+<meta name="dc.language" scheme="ISO639-2/T" content="fra" />
+<meta name="dc.creator" content="Gouvernement du Canada, Travaux publics et Services gouvernementaux Canada" />
+<meta name="dc.publisher" content="Gouvernement du Canada, Travaux publics et Services gouvernementaux Canada" />
+<meta name="dc.audience" content=" " />
+<meta name="dc.contributor" content=" " />
+<meta name="dc.coverage" content=" " />
+<meta name="dc.date.created" content="2008-06-13" />
+<meta name="dc.date.modified" content="2008-11-12" />
+<meta name="dc.format" content=" " />
+<meta name="dc.identifier" content=" " />
+<meta name="dc.rights" content="http://www.tpsgc-pwgsc.gc.ca/comm/ai-in-fra.html" />
+<meta name="dcterms.issued" scheme="W3CDTF" content="2007-09-20" />
+<meta name="dcterms.modified" scheme="W3CDTF" content="2008-11-12" />
+
+<meta name="description" content="75e anniversaire de la Cale seche d'Esquimalt." />
+<meta name="keywords" content="cale seche d'Esquimalt, historique" />
+
+<meta name="pwgsc.contact.email" content="questions@tpsgc.gc.ca" />
+<!-- FIN DES METADONNEES | METADATA ENDS -->
+<!-- DEBUT DES CSS DU GABARIT TPSGC | PWGSC TEMPLATE CSS BEGIN -->
+<link href="/clf20/css/base.css" media="screen, print" rel="stylesheet" type="text/css" />
+<link href="/clf20/css/2col.css" media="screen, print" rel="stylesheet" type="text/css" />
+<style type="text/css" media="all">
+@import url(/clf20/css/base2.css);
+</style>
+<!-- PROGRESSIVE ENHANCEMENT BEGINS | DEBUT DE L'AMELIORATION PROGRESSIVE -->
+<script src="/clf20/scripts/pe-ap.js" type="text/javascript"></script>
+<script type="text/javascript">
+	/* <![CDATA[ */
+		var params = {
+			lng:"fra",
+			pngfix:"/clf20/images/inv.gif"
+		};
+		PE.progress(params);
+	/* ]]> */
+	</script>
+<!-- PROGRESSIVE ENHANCEMENT ENDS | FIN DE L'AMELIORATION PROGRESSIVE -->
+<link href="/clf20/css/base-institution.css" media="screen, print" rel="stylesheet" type="text/css" />
+<link href="/clf20/css/institution.css" media="screen, print" rel="stylesheet" type="text/css" />
+<link href="/pac/cse-egd/css/custom.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/clf20/css/pf-if.css" rel="stylesheet" type="text/css" />
+<!-- FIN DES CSS DU GABARIT TPSGC | PWGSC TEMPLATE CSS END -->
+</head>
+<body>
+<div class="page">
+	<div class="core">
+		<!-- HEADER BEGINS | DEBUT DE L'EN-TETE -->
+		<!--#include virtual="/clf20/ssi/tete-header-fra.html"-->
+		<!-- HEADER ENDS | FIN DE L'EN-TETE -->
+		<!-- DEBUT DE LA PISTE DE NAVIGATION | BREAD CRUMB BEGINS -->
+		<p class="breadcrumb">
+			<!--#include virtual="/clf20/ssi/bread-pain-fra.html"--><!--#include virtual="/pac/cse-egd/ssi/bread-pain-fra.html"-->
+			&gt;&nbsp;<a href="../historique-history-fra.html">Historique</a> &gt; Article
+			paru dans <em>Ensemble</em></p>
+		<!-- BREAD CRUMBS END | FIN DE LA PISTE DE NAVIGATION -->
+		<div class="colLayout">
+			<!-- DEBUT DE LA MISE EN PAGE DE DEUX COLONNES | TWO COLUMN LAYOUT BEGINS -->
+			<!-- DEBUT DU MENU LATERAL GAUCHE | LEFT SIDE MENU BEGINS -->
+			<div class="left">
+				<!--#include virtual="/clf20/ssi/left-menu-gauche1-fra.html"-->
+				<!--#include virtual="/pac/cse-egd/ssi/menu-mi-fra.html"-->
+				<!--#include virtual="/clf20/ssi/left-menu-gauche-proactive-fra.html"-->
+			</div>
+			<!-- FIN DU MENU LATERAL GAUCHE | LEFT SIDE MENU ENDS -->
+			<!-- DEBUT DU CONTENU | CONTENT BEGINS -->
+
+			<div class="center">
+				<h1 id="cont">
+					<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+					Historique
+					<!-- CONTENT TITLE ENDS | FIN DU TITRE DU CONTENU -->
+					</h1>
+				<h2>Article paru dans <em>Ensemble</em></h2>
+				<p><em>Quoi de neuf depuis 75 ans?</em><br />
+					Leah Prentice</p>
+				<div style="clear:right;"> <img src="../images/ensemble/1.jpg" width="113" height="150" alt="Journ&eacute;e d'accueil lors de la F&ecirc;te du Canada" style="float:right; padding-left:10px; padding-bottom:10px; padding-bottom:10px;"/>
+					<p>L'an dernier, la Cale s&egrave;che d'Esquimalt a c&eacute;l&eacute;br&eacute;
+						son 75<sup>e</sup> anniversaire d'existence. La <acronym title="Cale s&eacute;che d'Esquimalt">CSE</acronym> a
+						profit&eacute;
+						de la F&ecirc;te du Canada pour tenir la premi&egrave;re journ&eacute;e
+						d'accueil de son histoire, et des dizaines d'employ&eacute;s de <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> ont
+						travaill&eacute;
+						b&eacute;n&eacute;volement avec leurs familles pour que tout le monde ait
+						une journ&eacute;e m&eacute;morable.</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/2.jpg" width="150" height="113" alt="Cérémonie commémorative" style="float:right; padding-left:10px; padding-bottom:10px; padding-bottom:10px;"/>
+					<p>Le clou de la journ&eacute;e a &eacute;t&eacute; la reconstitution des
+						F&ecirc;tes d'inauguration initiales qui s'&eacute;taient tenues le 1er
+						juillet 1927. Un d&eacute;fil&eacute; de voitures anciennes avec &agrave; leur
+						bord tout un ar&eacute;opage d'invit&eacute;s de marque s'est rendu &agrave; l'endroit
+						o&ugrave; se tenait la c&eacute;r&eacute;monie comm&eacute;morative.</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/3.jpg" width="150" height="113" alt="Une capsule historique est dédicacée" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+					<p>Une capsule historique a &eacute;t&eacute; d&eacute;dicac&eacute;e par
+						le ministre de l'Environnement, David Anderson, le maire d'Esquimalt, Ray
+						Rice, et Jack Gale, grutier &agrave; la cale s&egrave;che.</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/4.jpg" width="113" height="151" alt="Visites de la cale sèche" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+					<p>Les gens sont venus &agrave; la journ&eacute;e d'accueil pour mieux conna&icirc;tre
+						l'histoire de la cale s&egrave;che et le r&ocirc;le qu'elle sera appel&eacute;e &agrave; jouer
+						au cours du XXIe si&egrave;cle. Rocky Domingo, chef de projet aux Services
+						professionnels et techniques, a fait visiter les installations.</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/5.jpg" width="150" height="113" alt="Visites du bâtiment du service des pompes" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+					<p>Doug Ferrier, agent de mise en oeuvre aux Services professionnels et
+						techniques montre le b&acirc;timent du service des pompes - b&acirc;timent &agrave; valeur
+						patrimoniale qui renferme des machines datant de 1927.</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/6.jpg" width="150" height="113" alt="Visite d'anciens employés" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+					<p>Plusieurs anciens employ&eacute;s &eacute;taient de la partie.</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/11.jpg" width="150" height="113" alt="Activités de grimage et stand de hotdogs sur barbecue" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+					<p>Des b&eacute;n&eacute;voles de TPSGC ont organis&eacute; des jeux, des
+						activit&eacute;s de grimage et un stand de hotdogs sur barbecue, activit&eacute;s
+						qui ont permis de r&eacute;colter plus de 1&nbsp;300&nbsp;$ pour United
+						Way.</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/12.jpg" width="150" height="129" alt="Jeux dans le cadre de la fête" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+					<p>Bob Graves, des Services professionnels et techniques, (&agrave; gauche,
+						chemise rouge), Kelly Graves - la fille de Bob (chemise rouge) et Austin
+						Cabral, directeur r&eacute;gional, Finances et Administration, (bretelles
+						rouges) ont particip&eacute; comme b&eacute;n&eacute;voles &agrave; l'organisation
+						des jeux.</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/8.jpg" width="150" height="113" alt="Guerres navales" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+					<p>Qu'est-ce qui arrive quand on demande &agrave; six &eacute;quipes de
+						construire un &laquo;&nbsp;bateau&nbsp;&raquo; sans utiliser de clous,
+						de vis ou d'outils &eacute;lectriques et que les six sont capables d'atteindre
+						la ligne d'arriv&eacute;e en m&ecirc;me temps? Une guerre navale!</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/9.jpg" width="150" height="113" alt="Guerres navales" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+					<p>Et c'est parti!</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/7.jpg" width="113" height="151" alt="Prix" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+					<p>Peggy Stewart (en shorts) et Jim Milne (en habit, portant chapeau) de
+						la Cale s&egrave;che d'Esquimalt remettent les prix.</p>
+				</div>
+				<div style="clear:right;"> <img src="../images/ensemble/13.jpg" width="150" height="113" alt="Merci!" style="float:right; padding-left:10px; padding-bottom:10px;"/>
+					<p>Chapeau bas &agrave; tous les b&eacute;n&eacute;voles. Sans eux, rien
+						de tout cela n'aurait &eacute;t&eacute; possible. Merci!</p>
+				</div>
+				<div style="clear:both;"><i>Source&nbsp;: &nbsp;Harbour &amp; Shipping Journal,
+						Juillet 2002, Volume 85, N<sup>o</sup> 7</i></div>
+			</div>
+
+			<!-- FIN DU CONTENU | CONTENT ENDS -->
+			<!-- FIN DE LA MISE EN PAGE DE DEUX COLONNES | TWO COLUMN LAYOUT ENDS -->
+			<!-- DEBUT DU PIED DE LA PAGE | FOOTER BEGINS -->
+			<div class="footer">
+				<div class="footerline"></div>
+				<div class="foot1">
+					<!-- DEBUT DE LA DATE DE MODIFICATION | DATE MODIFIED BEGINS -->
+					Date de modification&nbsp;: <span class="date">
+					<!--#config timefmt="%Y-%m-%d"-->
+					<!--#echo var="LAST_MODIFIED"-->
+					</span>
+					<!-- FIN DE LA DATE DE MODIFICATION | DATE MODIFIED ENDS -->
+				</div>
+				<!--#include virtual="/clf20/ssi/foot-pied-fra.html"-->
+			</div>
+			<!-- FIN DU PIED DE LA PAGE | FOOTER ENDS -->
+		</div>
+	</div>
+</div>
+</body>
+</html>

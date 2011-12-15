@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<head>
+<!-- VERSION 1.04 DU GABARIT NSI 2.0 | CLF 2.0 TEMPLATE VERSION 1.04 -->
+<!-- VERSION 1.0 DU GABARIT TPSGC | PWGSC TEMPLATE VERSION 1.0 -->
+<!-- DEBUT DE L'EN-TETE | HEADER BEGINS -->
+<!-- DEBUT DU TITRE | TITLE BEGINS -->
+
+<title>CSE : un exemple d'écocivisme - CSE - TPSGC</title>
+
+<!-- FIN DU TITRE | TITLE ENDS -->
+<!-- DEBUT DES METADONNEES | METADATA BEGINS -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/" />
+<link rel="schema.dc" href="http://purl.org/dc/terms/" />
+
+<meta name="dc.title" content="CSE : un exemple d'écocivisme - CSE - TPSGC" />
+<meta name="dc.subject" scheme="gccore" content="Navire; Quai; Environnement; Information;  Index" />
+
+<meta name="dc.language" scheme="ISO639-2/T" content="fra" />
+<meta name="dc.creator" content="Gouvernement du Canada, Travaux publics et Services gouvernementaux Canada" />
+<meta name="dc.publisher" content="Gouvernement du Canada, Travaux publics et Services gouvernementaux Canada" />
+<meta name="dc.audience" content=" " />
+<meta name="dc.contributor" content=" " />
+<meta name="dc.coverage" content=" " />
+<meta name="dc.date.created" content="2008-06-13" />
+<meta name="dc.date.modified" content="2008-11-12" />
+<meta name="dc.format" content=" " />
+<meta name="dc.identifier" content=" " />
+<meta name="dc.rights" content="http://www.tpsgc-pwgsc.gc.ca/comm/ai-in-fra.html" />
+<meta name="dcterms.issued" scheme="W3CDTF" content="2007-09-20" />
+<meta name="dcterms.modified" scheme="W3CDTF" content="2008-11-12" />
+
+<meta name="description" content="CSE : un exemple d'écocivisme" />
+<meta name="keywords" content="cale seche d'Esquimalt, ISO 14001, environnement, gestion, programmes, sant&eacute;, s&eacute;curit&eacute;" />
+
+<meta name="pwgsc.contact.email" content="questions@tpsgc.gc.ca" />
+<!-- FIN DES METADONNEES | METADATA ENDS -->
+<!-- DEBUT DES CSS DU GABARIT TPSGC | PWGSC TEMPLATE CSS BEGIN -->
+<link href="/clf20/css/base.css" media="screen, print" rel="stylesheet" type="text/css" />
+<link href="/clf20/css/2col.css" media="screen, print" rel="stylesheet" type="text/css" />
+<style type="text/css" media="all">
+@import url(/clf20/css/base2.css);
+</style>
+<!-- PROGRESSIVE ENHANCEMENT BEGINS | DEBUT DE L'AMELIORATION PROGRESSIVE -->
+<script src="/clf20/scripts/pe-ap.js" type="text/javascript"></script>
+<script type="text/javascript">
+	/* <![CDATA[ */
+		var params = {
+			lng:"fra",
+			pngfix:"/clf20/images/inv.gif"
+		};
+		PE.progress(params);
+	/* ]]> */
+	</script>
+<!-- PROGRESSIVE ENHANCEMENT ENDS | FIN DE L'AMELIORATION PROGRESSIVE -->
+<link href="/clf20/css/base-institution.css" media="screen, print" rel="stylesheet" type="text/css" />
+<link href="/clf20/css/institution.css" media="screen, print" rel="stylesheet" type="text/css" />
+<link href="/pac/cse-egd/css/custom.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/clf20/css/pf-if.css" rel="stylesheet" type="text/css" />
+<!-- FIN DES CSS DU GABARIT TPSGC | PWGSC TEMPLATE CSS END -->
+</head>
+<body>
+<div class="page">
+	<div class="core">
+		<!-- HEADER BEGINS | DEBUT DE L'EN-TETE -->
+		<!--#include virtual="/clf20/ssi/tete-header-fra.html"-->
+		<!-- HEADER ENDS | FIN DE L'EN-TETE -->
+		<!-- DEBUT DE LA PISTE DE NAVIGATION | BREAD CRUMB BEGINS -->
+		<p class="breadcrumb">
+			<!--#include virtual="/clf20/ssi/bread-pain-fra.html"--><!--#include virtual="/pac/cse-egd/ssi/bread-pain-fra.html"-->
+			&gt;&nbsp;<a href="interet-interest-fra.html">Articles
+			d'Int&eacute;r&ecirc;t</a>				&gt; un exemple d'écocivisme </p>
+		<!-- BREAD CRUMBS END | FIN DE LA PISTE DE NAVIGATION -->
+		<div class="colLayout">
+			<!-- DEBUT DE LA MISE EN PAGE DE DEUX COLONNES | TWO COLUMN LAYOUT BEGINS -->
+			<!-- DEBUT DU MENU LATERAL GAUCHE | LEFT SIDE MENU BEGINS -->
+			<div class="left">
+				<!--#include virtual="/clf20/ssi/left-menu-gauche1-fra.html"-->
+				<!--#include virtual="/pac/cse-egd/ssi/menu-mi-fra.html"-->
+				<!--#include virtual="/clf20/ssi/left-menu-gauche-proactive-fra.html"-->
+			</div>
+			<!-- FIN DU MENU LATERAL GAUCHE | LEFT SIDE MENU ENDS -->
+			<!-- DEBUT DU CONTENU | CONTENT BEGINS -->
+
+			<div class="center">
+
+				<h1 id="cont">
+					<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
+					CSE : un exemple d'écocivisme
+					<!-- CONTENT TITLE ENDS | FIN DU TITRE DU CONTENU -->
+					</h1>
+				<p>par  Roy John<br />
+					chef d'équipe, 
+Services d'enregistrement - Environnement, Systèmes de santé et de sécurité
+
+</p>
+				<div class="smallFont" style="font-weight:bold; float:right; padding-bottom: 10px; padding-left:10px; width:300px;"><img src="../images/good-environmental-citizen.jpg" alt="Bonnie MacKenzie remet des certificats de reconnaissance" width="300" height="202" /><br />
+				Bonnie MacKenzie, directrice générale régionale de Travaux publics et Services gouvernementaux Canada (au centre), remet des certificats de reconnaissance à plusieurs membres du comité directeur du SGE de la cale sèche d'Esquimalt. De gauche à droite : Jim Sandwith, Peninsula Waste Water Services Ltd; Malcolm Barker, Victoria Shipyards; Gordon Safarik, Esquimalt Dry Dock Company; et Peter Brennan, Jenkins Marine. 
+				</div>
+				
+				<p>L'Office des normes générales du Canada a récemment accordé à la cale sèche  d'Esquimalt, plus grande cale sèche civile à fondation à demeure de la côte ouest de l'Amérique du Nord, la certification ISO 14001. Située en banlieue de Victoria (Colombie-Britannique), la cale sèche appartient au ministère des Travaux publics et des Services gouvernementaux du Canada (TPSGC) et est exploitée par ce ministère, mais toutes les activités de construction et de réparation de navires y sont effectuées par des entreprises privées.</p>
+					
+				<p>En 1999, la direction et les utilisateurs de la cale sèche se sont entendus pour adopter une démarche organisée de gestion des enjeux environnementaux liés à leurs activités industrielles. C'est ainsi qu'est né le projet de certification ISO 14001.</p>
+					
+				<p>Conscient que la réussite du projet nécessitait la participation et le soutien d'un certain nombre d'organismes indépendants, TPSGC a commencé par former un comité environnemental formé de représentants de chacune des parties intéressées. Le personnel du Ministère a convaincu les entreprises de réparation de navires que la mise en place d'un système de gestion de l'environnement (SGE) serait bonne pour le moral des employés comme pour les activités commerciales. Dans une industrie centenaire très conservatrice, il s'agissait déjà d'un gain important. Par la suite, les employés de TPSGC affectés à la gestion de l'environnement ont conçu un SGE cohérent.</p>
+					
+				<p>Le système proposé tient compte de la situation particulière de TPSGC en tant que propriétaire et exploitant de la cale sèche ne fournissant pas lui-même les services de réparation de navires. Il contient des protocoles opérationnels applicables à toutes les fonctions de TPSGC en tant que fournisseur d'eau, de vapeur, d'électricité, d'air et d'installations matérielles. De plus, il comprend des mécanismes visant à garantir que les utilisateurs de la cale sèche respecteront ses besoins environnementaux.</p>
+					
+				<p>Afin de sensibiliser les intervenants et d'encourager leur bonne volonté, tous les utilisateurs de la cale sèche se sont vu offrir de participer aux séances de formation prévérification offertes aux employés de TPSGC. Cela a permis non seulement de donner des renseignements techniques aux travailleurs du chantier maritime, mais aussi de créer un bon esprit d'équipe.</p>
+					
+				<p>En août 2001, l'Office des normes générales du Canada a mené une vérification axée principalement sur deux enjeux. Il fallait tout d'abord examiner comment avaient été divisées les activités entre l'exploitant des installations (TPSGC) et les fournisseurs de services, et comment avaient été déterminées les responsabilités et les sphères d'influence de chacun. Ensuite, il risquait d'être difficile d'établir la portée de l'organisme à enregistrer étant donné l'importance de la cale sèche, sa structure plutôt diffuse et les limites du contrôle de gestion exercé par TPSGC.</p>
+
+				<p>Habituellement, les rapports de vérification établissent les lacunes; il est très rare qu'ils contiennent des félicitations, mais ce fut le cas dans le rapport sur la cale sèche d'Esquimalt. L'Office a applaudi la direction et les utilisateurs des installations pour leurs impressionnants travaux de collaboration et pour le SGE véritablement partagé qu'ils ont réussi à mettre en œuvre. </p>
+					
+				<p>En obtenant la certification ISO 14001, TPSGC a prouvé son écocivisme. La discipline de gestion imposée par la norme permettra aux employés de conserver le contrôle des questions environnementales malgré la nature toujours changeante de l'industrie de réparation navale. La cale sèche d'Esquimalt a été parmi les premiers organismes fédéraux à être certifiés ISO 14001 et, dans le monde entier, seuls deux autres grands chantiers maritimes ont réussi l'exploit..</p>
+					
+				<p>L'Office des normes générales du Canada tient à féliciter la direction et les utilisateurs de la cale sèche d'Esquimalt de cette réussite.</p>
+
+				<div class="option2">
+				<p>Pour en savoir davantage, communiquez avec Daryl Lawes, coordonnateur des services environnementaux à la cale sèche d'Esquimalt, par téléphone au 250-363-6985 ou par courriel à <a href="mailto:daryl.lawes@pwgsc.gc.ca">daryl.lawes@tpsgc.gc.ca</a>.</p></div>
+				<p><em>Source: Calibre,  Printemps  2002,  volume 7, no 1 </em></p>
+			</div>
+
+			<!-- FIN DU CONTENU | CONTENT ENDS -->
+			<!-- FIN DE LA MISE EN PAGE DE DEUX COLONNES | TWO COLUMN LAYOUT ENDS -->
+			<!-- DEBUT DU PIED DE LA PAGE | FOOTER BEGINS -->
+			<div class="footer">
+				<div class="footerline"></div>
+				<div class="foot1">
+					<!-- DEBUT DE LA DATE DE MODIFICATION | DATE MODIFIED BEGINS -->
+					Date de modification&nbsp;: <span class="date">
+					<!--#config timefmt="%Y-%m-%d"-->
+					<!--#echo var="LAST_MODIFIED"-->
+					</span>
+					<!-- FIN DE LA DATE DE MODIFICATION | DATE MODIFIED ENDS -->
+				</div>
+				<!--#include virtual="/clf20/ssi/foot-pied-fra.html"-->
+			</div>
+			<!-- FIN DU PIED DE LA PAGE | FOOTER ENDS -->
+		</div>
+	</div>
+</div>
+</body>
+</html>
