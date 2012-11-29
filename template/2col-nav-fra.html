@@ -8,7 +8,7 @@
 <meta charset="utf-8" />
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Licence-fra.txt -->
-<!-- WET 3.0, PWGSC 1.0 file: 2col-fra.html -->
+<!-- WET 3.0, PWGSC 1.0 file: 2col-nav-fra.html -->
 <!-- TitleStart -->
 <title>Page de contenu + menu secondaire 1 - Thème de la facilité d'emploi Web GC - Exemples pratiques - Boîte à outils de l'expérience Web (BOEW)</title>
 <!-- TitleEnd -->
@@ -39,15 +39,15 @@ wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Lice
 
 <div id="wb-head"><div id="wb-head-in"><header>
 <!-- HeaderStart -->
-
 <!--#include virtual="/boew-wet/wet3.0/html5/includes/banner_gc-gc_banner-fra.html" -->
 <!--#include virtual="/site/wet3.0/html5/includes/banner_site-site_banner-fra.html" -->
 <nav role="navigation">
+
 <!--#include virtual="/site/wet3.0/html5/includes/nav_mega-mega_nav-fra.html" -->
 <div id="gcwu-bc"><h2>Fil d'Ariane</h2><div id="gcwu-bc-in">
 <ol>
 <!--#include virtual="/site/wet3.0/html5/includes/pain-bread-fra.html" -->
-<!--#include virtual="/ggpfi-ipmg/includes/pain-bread-section-fra.html" -->
+<!--#include virtual="/site30/includes/pain-bread-section-fra.html" -->
 </ol>
 </div></div>
 </nav>
@@ -58,7 +58,7 @@ wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Lice
 <div id="wb-main" role="main"><div id="wb-main-in">
 <!-- MainContentStart -->
 <h1 id="wb-cont">Page de contenu + menu secondaire 1 - Thème de la facilité d'emploi Web GC</h1>
-
+<div class="span-4">
 <section><h2>En-tête 2 (<code>h2</code>) - apparence par défaut</h2>
 	<section><h3>En-tête 3 (<code>h3</code>) - apparence par défaut</h3>
 		<section><h4>En-tête 4 (<code>h4</code>) - apparence par défaut</h4>
@@ -143,16 +143,20 @@ wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Lice
 <blockquote>
 <p>&quot;Blockquote - apparence par défaut&quot;.</p>
 </blockquote>
+</div>
 <!-- EndEditableContent -->
+<!--#include virtual="/site30/includes/nav_droite-nav_right-fra.html" -->
+
 <dl id="gcwu-date-mod" role="contentinfo">
 <dt>Date de modification&#160;:</dt><dd><span><time><!--#config timefmt='%Y-%m-%d'--><!--#echo var='LAST_MODIFIED'--></time></span></dd>
 </dl>
+
 <div class="clear"></div>
 <!-- MainContentEnd -->
 </div></div>
 
 <div id="wb-sec"><div id="wb-sec-in">
-<!--#include virtual="/ggpfi-ipmg/includes/nav_gauche-nav_left-fra.html" -->
+<!--#include virtual="/site30/includes/nav_gauche-nav_left-fra.html" -->
 </div></div>
 </div></div>
 
