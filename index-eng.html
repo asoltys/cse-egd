@@ -8,7 +8,7 @@
 <meta charset="utf-8" />
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Licence-fra.txt -->
-<!-- WET 3.0, PWGSC 1.0 file: 2col-eng.html -->
+<!-- WET 3.0, PWGSC 1.0 file: 2col-nav-eng.html -->
 <!-- TitleStart -->
 <title>Content page + Secondary menu 1 - GC Web Usability theme - Working examples - Web Experience Toolkit (WET)</title>
 <!-- TitleEnd -->
@@ -24,7 +24,6 @@ wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Lice
 <meta name="keywords" content="English keywords / Mots-clés en anglais" />
 <!-- MetadataEnd -->
 <!--#include virtual="/boew-wet/wet3.0/html5/includes/tete-head.html" -->
-
 <!-- CustomScriptsCSSStart -->
 <!-- CustomScriptsCSSEnd -->
 </head>
@@ -43,7 +42,6 @@ wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Lice
 <!--#include virtual="/site/wet3.0/html5/includes/banner_site-site_banner-eng.html" -->
 <nav role="navigation">
 <!--#include virtual="/site/wet3.0/html5/includes/nav_mega-mega_nav-eng.html" -->
-
 <div id="gcwu-bc"><h2>Breadcrumb trail</h2><div id="gcwu-bc-in">
 <ol>
 <!--#include virtual="/site/wet3.0/html5/includes/pain-bread-eng.html" -->
@@ -56,13 +54,10 @@ wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Lice
 
 <div id="wb-core"><div id="wb-core-in" class="equalize">
 <div id="wb-main" role="main"><div id="wb-main-in">
-		<h1 id="cont">
-			<!-- CONTENT TITLE BEGINS | DEBUT DU TITRE DU CONTENU -->
-			Esquimalt Graving Dock &ndash; Welcome
-			<!-- CONTENT TITLE ENDS | FIN DU TITRE DU CONTENU -->
-		</h1>
-      
-		<div class="main1"><img src="images/dock-cale.jpg" alt="" width="388" height="250" style="width: 388px; height: 250px;" />
+<!-- MainContentStart -->
+<h1 id="wb-cont">Esquimalt Graving Dock &ndash; Welcome</h1>
+<div class="span-4">
+		<div class="main1"><img src="images/dock-cale.jpg" alt="" />
 					
 			<p>The Esquimalt Graving Dock, or EGD, is proud to be federally owned, operated, and maintained. <abbr title="Esquimalt Graving Dock">EGD</abbr> is the largest solid-bottom commercial drydock on the West Coast of the Americas. We are <a href="emp-loc-eng.html">located</a> in an ice free harbour on Vancouver Island near gateways to Alaska and the Pacific Rim. </p>
 			<p>Our world class facilities include stabilizer pockets and high-speed heavy lift cranes up to 150&nbsp;tonnes/165&nbsp;tons. The Dock can accommodate vessels up to 100,000&nbsp;<abbr title="Deadweight Tonnage">DWT</abbr> or about 90%&nbsp;of the world's ships.</p>
@@ -89,8 +84,17 @@ wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Lice
 			</ul>
 			<p>Our <a href="env/programme-program-eng.html"><abbr title="International Standards Organization">ISO</abbr>&nbsp;14001 environmental management system</a> ensures that work done at the Esquimalt Graving Dock is done in an environmentally responsible manner.<br />
           </p>
-        </div>
-      </div></div>
+    </div></div>
+<!-- EndEditableContent -->
+<!--#include virtual="/pac/cse-egd/includes/nav_droite-nav_right-eng.html" -->
+
+<dl id="gcwu-date-mod" role="contentinfo">
+<dt>Date modified:</dt><dd><span><time><!--#config timefmt='%Y-%m-%d'--><!--#echo var='LAST_MODIFIED'--></time></span></dd>
+</dl>
+
+<div class="clear"></div>
+<!-- MainContentEnd -->
+</div></div>
 
 <div id="wb-sec"><div id="wb-sec-in">
 <!--#include virtual="/pac/cse-egd/includes/nav_gauche-nav_left-eng.html" -->
