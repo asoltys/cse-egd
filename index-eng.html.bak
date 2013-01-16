@@ -8,22 +8,23 @@
 <meta charset="utf-8" />
 <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Licence-fra.txt -->
-<!-- WET 3.0, PWGSC 1.0 file: 2col-nav-eng.html -->
+<!-- WET 3.0, PWGSC 1.0 file: 2col-eng.html -->
 <!-- TitleStart -->
-<title>Welcome &ndash; Esquimalt Graving Dock (EGD) &ndash; PWGSC</title>
+<title>Esquimalt Graving Dock &ndash; Welcome</title>
 <!-- TitleEnd -->
 <!-- MetadataStart -->
-<meta name="description" content="The Esquimalt Graving Dock, or EGD, is proud to be federally owned, operated, and maintained. EGD is the largest solid-bottom commercial drydock on the West Coast of the Americas. We are located in an ice free harbour on Vancouver Island near gateways to Alaska and the Pacific Rim." />
-<meta name="dcterms.description" content="The Esquimalt Graving Dock, or EGD, is proud to be federally owned, operated, and maintained. EGD is the largest solid-bottom commercial drydock on the West Coast of the Americas. We are located in an ice free harbour on Vancouver Island near gateways to Alaska and the Pacific Rim." />
-<meta name="dcterms.creator" content="Government of Canada, Public Works and Government Services Canada" />
-<meta name="dcterms.title" content="Welcome - Esquimalt Graving Dock (EGD - PWGSC)" />
-<meta name="dcterms.issued" title="W3CDTF" content="2007-09-20" />
+<meta name="description" content="English description / Description en anglais" />
+<meta name="dcterms.description" content="English description / Description en anglais" />
+<meta name="dcterms.creator" content="English name of the content author / Nom en anglais de l'auteur du contenu" />
+<meta name="dcterms.title" content="English title / Titre en anglais" />
+<meta name="dcterms.issued" title="W3CDTF" content="Date published (YYYY-MM-DD) / Date de publication (AAAA-MM-JJ)" />
 <meta name="dcterms.modified" title="W3CDTF" content="<!--#config timefmt='%Y-%m-%d'--><!--#echo var='LAST_MODIFIED'-->" />
-<meta name="dcterms.subject" title="gccore" content="Ships; Wharfs; Indexes" />
+<meta name="dcterms.subject" title="gccore" content="English subject terms / Termes de sujet en anglais" />
 <meta name="dcterms.language" title="ISO639-2" content="eng" />
-<meta name="keywords" content="Esquimalt Graving Dock, " />
+<meta name="keywords" content="English keywords / Mots-clés en anglais" />
 <!-- MetadataEnd -->
 <!--#include virtual="/boew-wet/wet3.0/html5/includes/tete-head.html" -->
+
 <!-- CustomScriptsCSSStart -->
 <!-- CustomScriptsCSSEnd -->
 </head>
@@ -42,14 +43,11 @@ wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Lice
 <!--#include virtual="/site/wet3.0/html5/includes/banner_site-site_banner-eng.html" -->
 <nav role="navigation">
 <!--#include virtual="/site/wet3.0/html5/includes/nav_mega-mega_nav-eng.html" -->
+
 <div id="gcwu-bc"><h2>Breadcrumb trail</h2><div id="gcwu-bc-in">
 <ol>
 <!--#include virtual="/site/wet3.0/html5/includes/pain-bread-eng.html" -->
-<!-- Start of pain-bread-section-eng.html / Début de pain-bread-section-eng.html -->
-<li><a href="http://www.tpsgc-pwgsc.gc.ca/apropos-about/rgnstnnll-rgnztnal-eng.html">Organization</a></li>
-<li><a href="/pac/index-eng.html">Pacific</a></li>
-<li><abbr title="Esquimalt Graving Dock">EGD</abbr></li>
-<!-- End of pain-bread-section-eng.html / Fin De pain-bread-section-eng.html -->
+<!--#include virtual="/site30/includes/pain-bread-section-eng.html" -->
 </ol>
 </div></div>
 </nav>
@@ -59,9 +57,9 @@ wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Lice
 <div id="wb-core"><div id="wb-core-in" class="equalize">
 <div id="wb-main" role="main"><div id="wb-main-in">
 <!-- MainContentStart -->
-<h1 id="wb-cont">Esquimalt Graving Dock</h1>
+<h1 id="wb-cont">Esquimalt Graving Dock &ndash; Welcome</h1>
 <div class="span-4">
-<img src="images/dock-cale.jpg" alt="" />
+		<img src="images/dock-cale.jpg" alt="" />
 					
 			<p>The Esquimalt Graving Dock, or EGD, is proud to be federally owned, operated, and maintained. <abbr title="Esquimalt Graving Dock">EGD</abbr> is the largest solid-bottom commercial drydock on the West Coast of the Americas. We are <a href="emp-loc-eng.html">located</a> in an ice free harbour on Vancouver Island near gateways to Alaska and the Pacific Rim. </p>
 			<p>Our world class facilities include stabilizer pockets and high-speed heavy lift cranes up to 150&nbsp;tonnes/165&nbsp;tons. The Dock can accommodate vessels up to 100,000&nbsp;<abbr title="Deadweight Tonnage">DWT</abbr> or about 90%&nbsp;of the world's ships.</p>
@@ -88,8 +86,7 @@ wet-boew.github.com/wet-boew/License-eng.txt / wet-boew.github.com/wet-boew/Lice
 			</ul>
 			<p>Our <a href="env/programme-program-eng.html"><abbr title="International Standards Organization">ISO</abbr>&nbsp;14001 environmental management system</a> ensures that work done at the Esquimalt Graving Dock is done in an environmentally responsible manner.<br />
           </p>
-      </div>
-      </div>
+</div></div>
 <!-- EndEditableContent -->
 <!--#include virtual="/pac/cse-egd/includes/nav_droite-nav_right-eng.html" -->
 
